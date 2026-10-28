@@ -6,7 +6,7 @@
 
 <br/><br/>
 
-<img src="assets/banner-home.svg" width="100%" alt="Database Management System Lab – Abhay Shukla, UID 25LBCS3171, Section D, Group A"/>
+<img src="Update banner-home.svg" width="100%" alt="Database Management System Lab – Abhay Shukla, UID 25LBCS3171, Section D, Group A"/>
 
 <br/>
 
