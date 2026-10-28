@@ -6,7 +6,7 @@
 
 <br/><br/>
 
-<img src="assets/banner-home.svg" width="100%" alt="Database Management System Lab – Iqra Khan, UID 25LBCS3306, Section B, Group A"/>
+<img src="assets/banner-home.svg" width="100%" alt="Database Management System Lab – Abhay Shukla, UID 25LBCS3171, Section D, Group A"/>
 
 <br/>
 
@@ -33,15 +33,15 @@
 
 <table>
 <tr>
-<th align="left">Name</th><td><b>Iqra Khan</b></td>
+<th align="left">Name</th><td><b>Abhay Shukla</b></td>
 <td rowspan="8" align="center" valign="middle" width="200">
 <img src="assets/microsoft-logo.png" alt="Microsoft" width="120"/><br/><br/>
 <img src="assets/bytexl-logo.png" alt="ByteXL" width="130"/>
 </td>
 </tr>
-<tr><th align="left">UID</th><td><code>25LBCS3306</code></td></tr>
+<tr><th align="left">UID</th><td><code>25LBCS3171</code></td></tr>
 <tr><th align="left">Program</th><td>BTech CSE (AIML) – Microsoft</td></tr>
-<tr><th align="left">Section</th><td>B</td></tr>
+<tr><th align="left">Section</th><td>D</td></tr>
 <tr><th align="left">Group</th><td>A</td></tr>
 <tr><th align="left">Subject Name</th><td>Database Management System</td></tr>
 <tr><th align="left">Subject Code</th><td><code>25CSH-210</code></td></tr>
@@ -250,7 +250,7 @@ $\color{#9C6610}{\textsf{Database Programming}}$
 &nbsp;&nbsp;&nbsp;
 <img src="assets/bytexl-logo.png" alt="ByteXL" height="28"/>
 
-**Iqra Khan** · UID `25LBCS3306` · Section B · Group A
+**Abhay Shukla** · UID `25LBCS3171` · Section D · Group A
 
 <sub>Database Management System (25CSH-210) · BTech CSE (AIML) – Microsoft · provided by Microsoft and ByteXL</sub>
 
